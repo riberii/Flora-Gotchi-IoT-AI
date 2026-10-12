@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.16","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-09-18T16:45:01.408Z","userMetadata":{},"modelName":"Flora-Gotchi","labels":["Healthy Leaf","Unhealthy Leaf","Aphid","Caterpillar","Snail","Whitefly","Spider Mite"],"imageSize":224}
